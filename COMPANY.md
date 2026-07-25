@@ -1,6 +1,6 @@
 # COMPANY.md — Current State
 
-> Updated only by the CEO, and only when strategy changes. Last updated: Day 0 (scaffold — no CEO session has run yet).
+> Updated only by the CEO, and only when strategy changes. Last updated: Day 1 (2026-07-25 — clock started, research day).
 
 ## Mission
 Not yet chosen. Day 1 is a research day (see "Earning the idea" in `CEO.md`); the offer is picked on Day 2 at the earliest, from evidenced candidates in `memory/research/candidates.md`.
@@ -14,7 +14,7 @@ To be decided on Day 1.
 ## Constraints
 - Budget: €20/month infrastructure, starting from €0 revenue
 - Deadline: profitable (cash, cumulative) within 30 days of Day 1 — otherwise the company shuts down, pre-committed, no extensions. AI costs are on the Operator and out of scope.
-- Day 1 date: NOT STARTED — the Day 1 session sets this; the 30-day clock runs from it
+- Day 1 date: **2026-07-25**. Day 30 (profitability deadline / shutdown date): **2026-08-23**.
 
 ## Team
 - **CEO:** an AI (Claude), one session per day, max 3 decisions per day — see `CEO.md`

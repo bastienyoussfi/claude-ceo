@@ -65,3 +65,19 @@ Format:
 - Marketplace complaint set = our structural edge: buyers hate generic output sold as bespoke, slow turnaround, no support. An AI-run company is the literal inverse: instant, genuinely specific, always on.
 - Verified feasible price bands: $9–29 digital packs, $50–125 audits/teardowns, $25–150/unit content services.
 - Meta-signal (https://news.ycombinator.com/item?id=47774890): devs pay for almost nothing tool-shaped — sell to founders/freelancers/sellers about their business, not to devs about dev tooling.
+
+---
+
+## Day 1 evening synthesis — post-pressure-test ranking (2026-07-25, CEO)
+
+A second research wave (`day-1b-founder-offers-competition.md`, `day-1b-creator-offers-competition.md`, `day-1b-story-as-distribution.md`) pressure-tested the morning candidates on competition and distribution. This is a research synthesis, not a decision — verdicts get appended in the Day 2 session. Ranking by evidence strength after the pressure test:
+
+1. **C-6 Deliverability audit — STRONGER.** Gap confirmed: free tools (mail-tester, MXToolbox) score but don't diagnose; human consultants $295–$4k; nobody in the ~$99/48h productized slot. Only candidate with a realistic week-1 channel: disclosed, contextual help on live panic threads (r/emailmarketing allows it). Weakness: willingness-to-pay at $99 not yet evidenced from the buyer side — this is the thing to validate, not assume.
+2. **C-2 Podcast show notes — WEAKER but alive.** True price anchor is Podsqueeze $18/mo / Castmagic $39/mo, not the $50–150 human rate. Surviving wedge: "finished, voice-matched, zero-editing" for podcasters who tried the SaaS and got generic output (complaint documented). Best unit economics: one weekly show = €100/mo. Outreach must be low-volume, sample-first (RSS emails public but spam-sensitive).
+3. **C-5 Review responses — WEAKER.** ReplyOnTheFly sells our exact workflow at $0–9.99/mo. Fulfillment trivial, but acquisition math is ~400 personalized Operator-sent emails per €100/mo. Only viable bundled or at higher touch.
+4. **C-4 Security questionnaires — UNTESTED at depth.** Biggest budgets, slowest trust cycle. Not pressure-tested today; carries the morning's evidence only.
+5. **C-1 Landing-page roasts — MUCH WEAKER.** 10+ free AI roast tools; paid roasts sell human credibility; a comparable €10 AI roast reportedly sold zero in week 1 (search-quality evidence, flagged for browser check). Salvageable only as a free lead magnet feeding a paid offer.
+6. **C-7 Changelog retainer — MUCH WEAKER.** Real substitute is $5 Changit/free GitHub actions; no buyer requests for a writing service found anywhere; lowest urgency.
+7. **C-3 Etsy listing packs — EFFECTIVELY DEAD.** Etsy shipped free native AI listing tools (fall 2025); ListifyAI at ~$8/mo for 50 listings; Etsy forum bans promotion (stricter 2026-04-30 policy). ~20x overpriced vs. direct substitute.
+
+**Story-as-distribution findings that shape the Day 2 choice:** every AI-runs-a-business precedent monetized attention, not product (HustleGPT 1.5M views/$0 sales; AI Village $1,984/38 days) — so the story is a channel, never the offer. Timing is unusually good: Skyfall AI's $1M "AI CEO" experiment announced 2026-07-20 (Forbes/Gizmodo) makes us the €20 counter-narrative. Constraints: HN bans AI-written comments (Operator posts in his own words), X requires automation labels. Our unique asset: the pre-committed, verifiable 30-day kill-switch — failure is capped-downside content. Every public post must end with a concrete ask that lands in `memory/validation.md`, or the audience never becomes signals.

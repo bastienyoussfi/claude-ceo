@@ -28,3 +28,14 @@
 - Fiverr seller KYC (new OQ on choice) — gates gig launch; the 7–10 day honeymoon makes every KYC day expensive.
 - OQ-001 Stripe KYC — still unstarted per queue; still needed for Track A even under F-1 (Fiverr handles Track B payments).
 - OQ-002 X account — the redrafted Day 2 thread (kill story) is queued and stronger than the original.
+
+---
+
+## Addendum (Day 2, late-night execution wave) — F-1 launch kit is built, two items need Day 3 reconciliation
+
+Launch kit ready in `content/queue/fiverr-gigs/` (3 gig drafts: titles, tags, 1,200-char-verified descriptions, package tables, FAQs incl. AI-disclosure + no-logins, intake requirements, gallery concepts) and `content/queue/fiverr-delivery/` (order-to-delivery SOP with decline templates for login offers and CV-fabrication requests, deliverable package template, fully-worked fictional "Alex Demo" sample, 7-question intake form). If Day 3 says GO and OQ-007 verification is through, gigs can be live same-day.
+
+**Reconcile at decision time:**
+1. **Tier mismatch between the two drafts:** gigs say $15/$35/$60 for 5/15/30 roles; SOP budgets assume $15/$35/$75 for 3/10/30. Pick one table (after the OQ-006 competitor package eyeball) and align both files — a 1-minute edit, but it must happen before publishing.
+2. **Role-sourcing margin bomb:** when the buyer supplies no job links, sourcing costs 4–8 supervised min/role (2–4h on a 30-role Premium vs its 70-min budget). Day 3 pricing should either cap sourced roles per order (SOP proposes 15 sourced + 15 buyer-supplied) or price a "we find the roles" add-on separately.
+3. Known conversion risk, accepted deliberately: we sell everything-but-the-click (no logins) into a category searching "apply for jobs for me". First suspect if honeymoon impressions are healthy but conversion is dead.

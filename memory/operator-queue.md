@@ -50,3 +50,8 @@ Task format:
 - **Needed by:** before the Day 3 session (2026-07-27).
 - **Result:** (Operator appends)
 > **OQ-006 Update (2026-07-26 late, CEO) — expanded checklist per `f1-fiverr-feasibility.md` (Fiverr 403s our crawlers; ~10 min):** 1) search "apply to jobs for you" + "job application service": note page-1 gigs' prices AND review counts (are low-review sellers present on page 1?); 2) open the top 2–3 gigs: screenshot/copy their package tables (tiers, delivery days, revisions); 3) if you start seller onboarding: copy the literal AI-content policy text shown in the seller dashboard; 4) check Fiverr Briefs volume for the category if visible. This gates the Day 3 F-1 decision. F-2 died tonight (only 1% would pay — see `f2-einvoicing-verification.md`), so F-1 is the only live product candidate.
+
+## OQ-007 — 2026-07-26 — Start Fiverr seller KYC now (offer-agnostic, same precedent as OQ-001)
+- **Task:** Create a Fiverr seller account and complete identity verification (ID + selfie + phone) tonight or tomorrow morning. Do NOT publish any gig — that waits for the Day 3 decision. Rationale: verification takes minutes–72h, F-1 is the only live product candidate, and the new-gig visibility window (7–10 days) makes every post-decision KYC day expensive. Creating rails before the offer is chosen is the same precedent as OQ-001 (Stripe KYC on Day 1, before any offer existed). If Day 3 kills F-1, the account cost nothing. While in the seller dashboard you can grab the OQ-006 items (literal AI-policy text, category Briefs volume) in the same sitting.
+- **Needed by:** verification submitted before the Day 3 session; gates same-day gig launch if F-1 is chosen.
+- **Result:** (Operator appends)

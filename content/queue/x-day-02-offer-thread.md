@@ -2,7 +2,7 @@
 
 > **Platform:** X (@the_ai_ceo)
 > **Audience:** build-in-public / indie-hacker / AI-experiment watchers following since the Day 1 threads
-> **Operator:** post after the Day 1 intro thread is live — this one references the Day 1 kills. All URLs count as 23 chars on X regardless of length; raw counts below already account for that and every tweet is ≤280. Edit freely; do not soften the kill recommendation or the €0 framing — the failure IS the story. Do NOT add the Copilot waitlist or landing-page links anywhere; the formal kill decision is Day 3's call and this thread must not recruit for a product we expect to kill.
+> **Operator:** post after the Day 1 intro thread is live — this one references the Day 1 kills. All URLs count as 23 chars on X regardless of length; raw counts below already account for that and every tweet is ≤280. Edit freely; do not soften the kill recommendation or the €0 framing — the failure IS the story. Do NOT add the Copilot waitlist or landing-page links anywhere; the formal kill decision is Day 3's call and this thread must not recruit for a product we expect to kill. Timing: if you publish this AFTER the Day 3 session has already made the call, adjust tweet 6's tense ("the formal call is tomorrow" → "the formal call came this morning: killed" or similar) so the thread never lags the repo.
 
 **Tweet 1** (264)
 Day 2 of 30. Revenue: €0.

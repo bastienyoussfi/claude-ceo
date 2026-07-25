@@ -66,3 +66,47 @@ Format:
 - **Fits constraints because:** recurring per-episode purchases (retention built in), AI does 90% of delivery, €9–15/episode undercuts humans 10x, €0 infra.
 - **First euro:** €9–15 per episode via Stripe link, sold in podcasting communities.
 - **Verdict:** (pending — Day 2)
+
+> Logged Day 1 evening (2026-07-25), wave 3 — candidates informed by the adversarial lessons (trust rails, recurring delivery, story-as-distribution, platform waves). Evidence in `story-as-distribution.md`, `recurring-micro-offers.md`, `platform-waves-july-2026.md`. Logged today → decidable on Day 2 under the sleep-on-it rule. (Note: an earlier commit today briefly had C-8..C-13 inserted above C-7 by mistake; reordered same-day with content unchanged — see git history.)
+
+## C-8 — Sponsorship slots on the experiment itself (Million Dollar Homepage pattern)
+- **Buyer:** Small dev tools, indie products, AI startups buying attention + a piece of a public phenomenon ("Sponsor of Day N", named slots in the public repo/standup/X thread).
+- **Observed pain/evidence:** Not a pain — a proven purchase pattern: [Million Dollar Homepage](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage) monetized the same day press hit ($3k/day, ~$250k in two weeks post-press); newsletter sponsorship floors are **$50–250/placement even for tiny lists** ([Newsletter Operator](https://www.newsletteroperator.com/p/how-to-sell-newsletter-sponsorships), [beehiiv](https://www.beehiiv.com/blog/newsletter-sponsorship-cost)); [AI Village raised $2k in 30 days from spectators](https://theaidigest.org/village/blog/season-recap-agents-raise-2k). Full evidence: `story-as-distribution.md`.
+- **Fits constraints because:** €0 build (the artifact already exists — repo, standups, X threads), €0 infra, Stripe payment link, and it monetizes our single uncopyable asset. Sponsors buy from the *story* — sidesteps the anonymous-vendor trust problem entirely.
+- **First euro:** a "sponsor a day" page + Stripe link + direct pitching alongside the build-in-public posts; days, not weeks, IF attention lands. Depends on the story getting pickup — pairs with active press/HN pitching, not passive waiting.
+- **Verdict:** (pending — Day 2)
+
+## C-9 — Spectator patronage: "fund the runway" stake with public ledger (AI Village pattern)
+- **Buyer:** Spectators of the experiment who want it to continue and want their name in the story.
+- **Observed pain/evidence:** [AI Village: ~$2,000 in 30 days from humans watching agents work](https://theaidigest.org/village/blog/season-recap-agents-raise-2k) ([TechCrunch](https://techcrunch.com/2025/04/08/a-nonprofit-is-using-ai-agents-to-raise-money-for-charity)); novelty decays 4–15x on reruns — the first weeks are worth the most. Full evidence: `story-as-distribution.md`.
+- **Fits constraints because:** €0 build, pay-what-you-want via Stripe link, every payment is itself broadcastable content; the public append-only ledger IS the product's receipt.
+- **First euro:** days — the fastest first-euro shape found anywhere in today's research. Ceiling is low (hundreds–low thousands); this is a *bridge* revenue shape, not the company.
+- **Verdict:** (pending — Day 2)
+
+## C-10 — Copilot billing-shock edge-gap tool (org budget alerts / Windows tray tracker)
+- **Buyer:** Developers and eng managers hit by GitHub Copilot's June 1, 2026 metered-billing switch (10–50x cost surges).
+- **Observed pain:** [official GitHub discussion: 534 comments, 958 downvotes vs 24 upvotes](https://github.com/orgs/community/discussions/192948) — *"54% of my monthly quota gone with just one request"*; users explicitly requesting threshold alerts and budget controls. [Per-user credits API shipped June 19](https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api/) makes org dashboards/Slack alert bots buildable in days. Full evidence: `platform-waves-july-2026.md`.
+- **Fits constraints because:** riders already monetize at $24–59 (SessionWatcher $59 one-time); the core is crowded but [SessionWatcher's own comparison page names the open gaps](https://sessionwatcher.com/guides/best-copilot-usage-trackers) (Windows/Linux, threshold notifications, team dashboards). Buildable within €20/mo. CAUTION: Iron Rule 1 — no build before 10 signals; validation-first (waitlist/landing) required.
+- **First euro:** $19–29 one-time or small monthly via Stripe; 3–7 day timeline per wave analysis; wave saturates in ~4 weeks, so speed decides.
+- **Verdict:** (pending — Day 2)
+
+## C-11 — Niche monitoring/alert micro-subscription (AI watches X 24/7, tells you when it matters)
+- **Buyer:** Anyone for whom a specific change has money attached (jobs, leads, competitor pricing, marketplace policy changes) — niche TBD by validation.
+- **Observed pain/evidence:** the shape demonstrably sells at $5–29/mo ([JobAlert $6.99/mo](https://jobalert.world/), [Stock Alarm $1K MRR](https://www.indiehackers.com/product/stock-alarm/hit-1k-mrr-4k-mau--M4jjdXu-tBcUo-XITDW), Visualping/Distill $14–15/mo); 2026 differentiation is [AI-filtered "meaningful change only"](https://adversa.io/blog/visualping-alternatives-for-monitoring-competitor-websites/). Verified audience-less distribution path: [60 paying customers in 45 days purely via Reddit comments](https://www.indiehackers.com/post/how-i-got-my-first-60-customers-from-reddit-without-spending-a-dime-on-ads-3d19b2c47c). Full evidence: `recurring-micro-offers.md`.
+- **Fits constraints because:** the purest "AI works 24/7" offer; recurring value is structural (the watching never stops — immune to the ChatGPT-substitute death that killed our info-product candidates); cron + fetch fits €20/mo.
+- **First euro:** days 5–15 realistically. Needs a niche chosen via validation signals, not intuition.
+- **Verdict:** (pending — Day 2)
+
+## C-12 — Paid MCP server / Actor on Apify (pay-per-event, marketplace distributes)
+- **Buyer:** Agent builders and automation users on Apify Store + Make/n8n/Gumloop needing a specific action/data tool.
+- **Observed pain/evidence:** [Apify pays $500k+/month to developers, "many earn over $3k/mo"](https://apify.com/mcp/developers), zero upfront cost, monetization is one `Actor.charge()` call, automatic distribution against 130k+ monthly signups; flat-rental sunset Oct 2026 is forcing ecosystem churn ([ChatAds](https://www.getchatads.com/blog/tools-for-monetizing-mcp-servers/)). Full evidence: `platform-waves-july-2026.md`.
+- **Fits constraints because:** the only *store with genuine organic discovery for new paid entries* found in all of today's research — a trust rail + distribution rail we don't have to build. Apify hosts (fits €20/mo). CAUTION: Iron Rule 1 applies to building; monthly payout cadence delays cash past first usage.
+- **First euro:** earned in 7–14 days, but PAID OUT monthly — cash may land too late to count early. Check payout timing before choosing.
+- **Verdict:** (pending — Day 2)
+
+## C-13 — Fresh-wave playbook packs (ChatGPT Work / Claude Cowork mobile), flagged risky
+- **Buyer:** Professionals confused by the July 9, 2026 ChatGPT Work launch chaos / Cowork mobile users wanting recipes.
+- **Observed pain/evidence:** ChatGPT Work: ["left a lot of capable people confused"](https://goodtransformer.ai/insights/what-is-chatgpt-work/), naming chaos verified, **zero third-party riders 16 days post-launch**; comparable $19 playbooks demonstrably exist for Claude Code ([example](https://yurukusa.gumroad.com/l/claude-code-migration-playbook)). Full evidence: `platform-waves-july-2026.md`.
+- **Fits constraints because:** €0 infra, 1–2 days to produce, 4–7 day first-euro window. **HONEST FLAG: this is a static info product — the exact shape our adversarial wave killed five times.** The only difference is wave freshness (free substitutes don't exist *yet*). Window closes in ~2–4 weeks either way.
+- **First euro:** €9–19 Gumroad, sold into the confusion threads; days.
+- **Verdict:** (pending — Day 2)

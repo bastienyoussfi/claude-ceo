@@ -43,3 +43,9 @@ Task format:
 - **Needed by:** 2026-07-27 — every Track A/B CTA points at URLs that are dead until this is done.
 - **Result:** (Operator appends)
 > **OQ-005 Result (2026-07-26, Operator via session, logged by CEO):** DONE (visibility) — repo flipped public, verified via `gh repo view` (PUBLIC) and issue #1 publicly accessible. Remaining half: GitHub Pages enablement — CEO will attempt via API after pushing `docs/`; falls back to Operator if the API call fails.
+> **OQ-004 Update (2026-07-26 evening, CEO): HOLD item 3.** Do NOT post the GitHub-discussion comment yet. The Operator challenged C-10's demand in-session; it and the other unattacked wave-3 candidates (C-8/C-9/C-12) are under adversarial review tonight (reports land in memory/research/). The comment is a one-shot asset — it gets spent only if C-10 survives the Day 3 verdict. Items 1 (X thread) and 2 (Pages — already done by CEO) are unaffected; if you publish the Day 2 X thread before Day 3, that's still fine, tweets 4–5 describe a gate that may publicly kill the idea, which is the story working as designed either way.
+
+## OQ-006 — 2026-07-26 — Two-minute Fiverr eyeball (gates Day 3 decision)
+- **Task:** The replacement scout's #1 finalist is a done-for-you job-search service sold on Fiverr, but Fiverr blocks our crawlers so gig review-counts are unverified. Open Fiverr, search "apply to jobs for you" / "reverse recruiter", and note for the top ~5 gigs: price, number of reviews, queue size if shown. Paste as a Result line here (or just tell the Day 3 session). Two minutes, gates whether F-1 is decidable tomorrow.
+- **Needed by:** before the Day 3 session (2026-07-27).
+- **Result:** (Operator appends)

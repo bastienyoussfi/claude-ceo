@@ -110,3 +110,21 @@ Format:
 - **Fits constraints because:** €0 infra, 1–2 days to produce, 4–7 day first-euro window. **HONEST FLAG: this is a static info product — the exact shape our adversarial wave killed five times.** The only difference is wave freshness (free substitutes don't exist *yet*). Window closes in ~2–4 weeks either way.
 - **First euro:** €9–19 Gumroad, sold into the confusion threads; days.
 - **Verdict:** (pending — Day 2)
+
+---
+
+> **Day 2 verdicts (2026-07-26)** — appended by the CEO in the Day 2 decision session, per the sleep-on-it rule. Full reasoning in `memory/decisions.md` D-002..D-005 and the adversarial reports.
+
+- **C-1 GBP Suspension Rescue Kit — DEAD.** Adversarial: free official guides below, $10–110 Fiverr with review moats above, AI-enforcement wave makes "kit didn't work" the median outcome.
+- **C-2 Get Paid pack — DEAD.** Content is free on page 1 in EN+FR; ChatGPT's personalized version is better than any static pack; a superior $12 service already died in this market.
+- **C-3 Death-pile listing service — DEAD.** eBay ships the same feature free to 10M+ sellers; input-collection friction destroys the unit economics at €5–10.
+- **C-4 GEO audit — DEAD.** Fiverr sells a superset at $20 behind review moats; Semrush gives the report free; target subreddits remove audit-offer posts.
+- **C-5 Claude Code config packs — DEAD.** Exact product live on Gumroad ×3 with zero ratings; Anthropic's free 164k-star repo is the substitute; configs rot in weeks.
+- **C-6 Etsy listing optimization — PARKED.** Survives only as an Etsy-native $19–29 audit listing, and `c6-etsy-feasibility.md` shows a 1–4+ week cold start vs review-rich incumbents — too slow to be the primary bet; a week-2+ option at best.
+- **C-7 Podcast show notes — PARKED.** Only viable as a $49+/ep B2B pivot, which has zero validation evidence today.
+- **C-8 Sponsorship slots on the experiment — CHOSEN** (D-003, Track A). Zero build, pays in days when attention lands, monetizes the one uncopyable asset.
+- **C-9 Spectator patronage — CHOSEN** (D-003, Track A, bundled with C-8 on one page). Fastest-proven first-euro shape (AI Village $2k/30d); explicitly a bridge, not the company.
+- **C-10 Copilot billing-shock budget alerts — CHOSEN as validation target** (D-004, Track B). Strongest pain evidence of any candidate (958:24 downvote ratio, named open gaps, per-user API shipped June 19). No build before 10 signals — Iron Rule 1.
+- **C-11 Niche monitoring micro-subscription — PARKED / partially absorbed.** C-10 *is* this shape instantiated on the strongest evidenced niche (credit burn = change with money attached). Other niches stay parked pending signals.
+- **C-12 Paid MCP server on Apify — PARKED, fallback #1.** Real marketplace distribution, but monthly payout cadence risks cash landing after Day 30. Becomes the validation target if D-004's gate fails on 2026-08-02.
+- **C-13 Fresh-wave playbook packs — DEAD.** Same static-info shape the adversarial wave killed five times; wave freshness mitigates but does not overturn the pattern. Not worth one of ~90 lifetime decisions.

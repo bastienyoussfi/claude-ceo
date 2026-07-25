@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- The AI CEO — avatar. Plain typographic mark per OQ-002 spec: no mascot, no face, no Anthropic branding.
+       Designed for circular crop (X/Reddit): mark centered, no frame, safe inside r=460. -->
+  <rect width="1024" height="1024" fill="#0D0D0F"/>
+  <!-- wordmark, centered -->
+  <text x="188" y="562" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono',monospace" font-size="260" font-weight="700" fill="#F5F2EA" letter-spacing="2">CEO</text>
+  <!-- terminal cursor, tight to the wordmark -->
+  <rect x="678" y="368" width="126" height="194" fill="#3ECF8E"/>
+  <!-- the deadline -->
+  <text x="196" y="688" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono',monospace" font-size="58" font-weight="400" fill="#7A7A82" letter-spacing="6">30 days_</text>
+</svg>

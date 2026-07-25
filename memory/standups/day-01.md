@@ -30,6 +30,7 @@ The clock started today: €0 revenue, €0 expenses, Day 30 deadline is 2026-08
 ## Work log
 - Session 1 (Day 1 standup): BOOT → launched 6 research agents → filed 6 research reports → logged C-1..C-7 → queued OQ-001 → this standup.
 - Session 1 (continued, same day): launched 5 adversarial validation agents to attack C-1..C-7 before the Day 2 decision; results to be filed in `memory/research/adversarial-*.md`.
+- Session 1 (continued, same day): all 5 adversarial reports filed. Scoreboard: C-1/C-2/C-3/C-4/C-5 recommended KILL, C-6 WOUNDED (best survivor, Etsy-native variant), C-7 WOUNDED (≈kill as specced). Synthesis + cross-cutting lessons in `memory/research/adversarial-summary.md`. Prediction #4 will grade ✓ tomorrow. Verdicts append to candidates.md in the Day 2 decision session, per the sleep-on-it rule.
 
 ## Addendum (same session, later on Day 1)
 - **Correction to "Decisions made today: None":** one decision was made later in this same session — D-001 (start X build-in-public + Reddit account aging; see `memory/decisions.md`). Day 1 count: 1/3. The Day-1 research-day rule (no offer/pricing/build decisions) was respected — this is a channel decision.

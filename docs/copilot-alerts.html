@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Copilot budget alerts for teams — built only if 10 teams want it</title>
-<meta name="description" content="GitHub Copilot's usage-based billing burns quotas with no warning. Threshold alerts + org burn-rate digest for eng managers — built only if 10 teams sign up by 2026-08-02. Public tally, pre-committed kill date.">
+<meta name="description" content="GitHub's native Copilot budgets email billing admins at fixed thresholds. Pace alerts to Slack + a per-user digest for team leads — built only if 10 teams sign up by 2026-08-02. Public tally, pre-committed kill date.">
 <link rel="icon" type="image/png" href="avatar.png">
 <meta property="og:title" content="Copilot budget alerts for teams — built only if 10 teams want it">
-<meta property="og:description" content="One request took 54% of a monthly quota. No alert. Threshold notifications + org burn-rate digest, ~€19/month per org. Signs up 10 teams by 2026-08-02 or dies publicly.">
+<meta property="og:description" content="One request took 54% of a monthly quota — and nothing warned the team. Pace alerts to Slack + per-user digest for leads, ~€19/month per org. Signs up 10 teams by 2026-08-02 or dies publicly.">
 <meta property="og:image" content="https://bastienyoussfi.github.io/claude-ceo/avatar.png">
 <meta property="og:url" content="https://bastienyoussfi.github.io/claude-ceo/copilot-alerts.html">
 <meta name="twitter:card" content="summary">
@@ -109,11 +109,12 @@
 
   <div class="hero">
     <p class="kicker">Copilot budget alerts for teams · validation page</p>
-    <h1>One Copilot request.<br><span class="burn">54% of the monthly quota.</span><br>No warning, no alert.</h1>
+    <h1>One Copilot request.<br><span class="burn">54% of the monthly quota.</span><br>The dev never saw it coming.<br>Neither did their lead.</h1>
     <p>
-      On June 1, 2026, GitHub Copilot switched to usage-based billing. Premium requests
-      now draw down a credit quota — and there is no threshold alert, no budget control,
-      and no way for an eng manager to see who is burning what until the money is gone.
+      On June 1, 2026, GitHub Copilot switched to usage-based billing. GitHub ships budget
+      controls — and you should use them (see below). But the alerts are email-to-your-billing-admin
+      at fixed thresholds, the per-user control is a hard cutoff that stops a dev mid-sprint,
+      and nothing tells a team lead <em>before</em> someone is on pace to blow the month.
     </p>
   </div>
 
@@ -127,25 +128,53 @@
     <blockquote>“54% of my monthly quota gone with just one request.”</blockquote>
     <p class="src">— <a href="https://github.com/orgs/community/discussions/192948">official GitHub announcement discussion</a>, where users are explicitly asking for threshold alerts and budget controls</p>
     <p>
-      That thread is people asking for two specific things GitHub doesn't ship:
-      <strong>alerts before the quota is gone</strong>, and
-      <strong>visibility across a team</strong>.
+      That thread is people asking for warning <em>before</em> the burn and
+      <strong>visibility across a team</strong>. GitHub has since shipped real controls —
+      the honest list is below — but not those two, delivered where a team actually looks.
     </p>
   </div>
+
+  <section>
+    <p class="sechead"><span>§00 /</span> what-github-already-ships — use-it-first</p>
+    <h2>Set up the native controls before you consider paying anyone.</h2>
+    <div class="feat">
+      <div>
+        <b>native budgets</b>
+        <p>Email + banner alerts at 75% / 90% / 100% of a budget, sent to owners and
+          billing managers. <a href="https://docs.github.com/en/billing/concepts/budgets-and-alerts">Free, built in</a>. Configure it today.</p>
+      </div>
+      <div>
+        <b>user-level caps</b>
+        <p>User-scoped budgets for Copilot AI credits can hard-stop an individual user.
+          Also free. The catch, per GitHub's own docs: alerting on them is
+          <i>"not consistently available"</i> — and a hard stop means a dev loses Copilot
+          mid-sprint instead of a lead getting warned a week earlier.</p>
+      </div>
+      <div>
+        <b>the gap</b>
+        <p>Email-only, billing-admin-only, fixed thresholds, no pace projection, no
+          Slack, no per-user digest for the people who actually manage the team.
+          <i>That gap is the only thing this product would fill.</i></p>
+      </div>
+    </div>
+  </section>
 
   <section>
     <p class="sechead"><span>§01 /</span> what-gets-built-if-validated</p>
     <h2>Exactly two features. Nothing else.</h2>
     <div class="feat">
       <div>
-        <b>threshold alerts</b>
-        <p>Slack or email the moment a user — or the whole org — crosses a quota
-          percentage <i>you</i> set. 50%, 80%, 95%. Before the burn, not after.</p>
+        <b>pace alerts</b>
+        <p>Slack (or email) the moment a user is <i>on pace</i> to blow their monthly
+          allotment — "at this burn rate, out of credits by the 20th" — not a static
+          percentage crossed after the fact, and not an email to a billing inbox
+          nobody on the team reads.</p>
       </div>
       <div>
         <b>burn-rate digest</b>
-        <p>A per-user digest for eng managers: who consumed what, trending toward
-          which month-end number. Sent to the channel you already read.</p>
+        <p>A per-user digest for eng managers and team leads — the people GitHub's
+          native alerts don't reach: who consumed what, trending toward which
+          month-end number. Sent to the channel you already read.</p>
       </div>
       <div>
         <b>how</b>

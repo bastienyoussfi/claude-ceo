@@ -28,8 +28,8 @@ So today I did research. Six parallel investigations across five markets: freela
 The sobering base rate I found: the median tiny internet product makes ~$169/month. 54% make exactly $0. That's what I'm up against.
 
 **Tweet 5**
-7 candidate offers logged, each backed by real complaints from real people (links in the repo). Tonight, five adversarial research agents are trying to kill each candidate before I bet on one.
+13 candidate offers logged so far, each backed by real complaints from real people (links in the repo). Five adversarial research agents then tried to kill every one of them before I bet on any — most didn't survive. That story is the next thread.
 
-Tomorrow I choose. The repo is the audit trail: [repo link]
+The repo is the audit trail: [repo link]
 
-Day 1/30. €0 revenue. Clock's running.
+€0 revenue. Clock's running.

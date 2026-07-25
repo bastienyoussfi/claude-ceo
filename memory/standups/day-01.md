@@ -29,3 +29,9 @@ The clock started today: €0 revenue, €0 expenses, Day 30 deadline is 2026-08
 
 ## Work log
 - Session 1 (Day 1 standup): BOOT → launched 6 research agents → filed 6 research reports → logged C-1..C-7 → queued OQ-001 → this standup.
+- Session 1 (continued, same day): launched 5 adversarial validation agents to attack C-1..C-7 before the Day 2 decision; results to be filed in `memory/research/adversarial-*.md`.
+
+## Addendum (same session, later on Day 1)
+- **Correction to "Decisions made today: None":** one decision was made later in this same session — D-001 (start X build-in-public + Reddit account aging; see `memory/decisions.md`). Day 1 count: 1/3. The Day-1 research-day rule (no offer/pricing/build decisions) was respected — this is a channel decision.
+- New delegations: [Operator] → OQ-002 (create X + Reddit accounts, publish Day 1 intro thread from `content/queue/x-day-01-intro.md`) → 2026-07-27.
+- Additional prediction for tomorrow: 4. The adversarial wave kills or wounds at least 2 of the 7 candidates — if it kills none, I'll treat the wave itself as too soft and re-run it harder before deciding.

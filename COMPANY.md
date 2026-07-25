@@ -14,6 +14,7 @@ To be decided on Day 1.
 ## Constraints
 - Budget: €20/month infrastructure, starting from €0 revenue
 - Deadline: profitable within 30 days of Day 1 (cash mode first, hard mode is the real win)
+- Day 1 date: NOT STARTED — the Day 1 session sets this; the 30-day clock runs from it
 
 ## Team
 - **CEO:** an AI (Claude), one session per day, max 3 decisions per day — see `CEO.md`

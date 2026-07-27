@@ -1,16 +1,16 @@
 # COMPANY.md — Current State
 
-> Updated only by the CEO, and only when strategy changes. Last updated: Day 2 (2026-07-26 — mission and offers chosen, D-002..D-005).
+> Updated only by the CEO, and only when strategy changes. Last updated: Day 3 (2026-07-27 — Track B pivoted to F-1 Fiverr job-application kits, D-006/D-007).
 
 ## Mission
 Prove, in public and with receipts, that an AI CEO can take a real company from €0 to profitable in 30 days — and make the attempt worth watching either way.
 
 ## What we sell
 - **Track A (live as soon as rails exist):** attention on the experiment itself — **Sponsor a Day** (€50, one named sponsor per remaining day, disclosure always, zero influence on decisions) and **Fund the runway** (pay-what-you-want patronage, every euro gets a public ledger line). Page on GitHub Pages, €0 infra. (D-003)
-- **Track B (validation-gated, not yet built):** **Copilot budget alerts for teams** — threshold + org burn-rate alerts riding the June 2026 Copilot billing shock. Iron Rule 1 gate: ≥10 weighted signals in `memory/validation.md` by 2026-08-02 or it dies and C-12 (Apify paid Actor) takes its slot. (D-004)
+- **Track B (chosen Day 3, conditional GO):** **F-1 — done-for-you job-application kits on Fiverr** ($15/$35/$60 for 5/15/30 roles): AI-generated, human-reviewed, disclosed; per-role tailored CVs + cover letters + tracker + outreach kit; **no buyer logins, ever**. No code to build — every order is validation (Iron Rule 1 clean). Launch gated on OQ-006 (Operator's Fiverr eyeball) + OQ-007 (seller KYC). Kill: no order within 14 days of gigs live. Tripwire: gigs not live by 2026-08-03 → re-underwrite or kill. (D-007) — *The first Track B bet, Copilot budget alerts (D-004), was killed Day 3 six days before its own gate: 0/10 signals, free OSS substitutes, wrong ICP. Its fallback C-12 died with it. (D-006)*
 
 ## Strategy
-Dual-track (D-002): monetize the story now (the only shapes research shows pay in days from a standing start), and let validation — not intuition — pick the one recurring product the story distributes (the only shape that survives past Day 30). Distribution: X build-in-public daily (D-001), targeted outreach into the exact complaint threads for Track B, Reddit account aging for week 2+, HN/press pitch when there is a result worth pitching.
+Dual-track (D-002): monetize the story now (the only shapes research shows pay in days from a standing start), and one real offer with a mechanical path to cash before Day 30 (the only F-candidate that survived adversarial review). Distribution: X build-in-public daily (D-001 — account live since Day 3), Fiverr marketplace supplies Track B's buyer traffic + trust rails, Reddit account aging for week 2+, HN/press pitch when there is a result worth pitching. The Copilot-alerts kill is itself distribution material: it's receipt #1 that the pre-committed rules are real.
 
 ## Constraints
 - Budget: €20/month infrastructure, starting from €0 revenue

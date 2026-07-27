@@ -80,7 +80,7 @@ Pricing logic: Standard sits in the €25–35 slot and is the intended landing 
    Correct, by design. You receive everything ready: tailored CV, cover letter, the direct application link, and a pre-written email with attachments where email-apply is possible. You approve and press submit in minutes per role — without ever handing over account access.
 
 5. **What if I don't have target job links?**
-   Standard and Premium include role sourcing: give me your target titles, locations, salary floor and constraints, and I deliver fresh, matching openings with direct company/ATS links, freshness-checked.
+   Standard and Premium include role sourcing for up to 15 roles per order: give me your target titles, locations, salary floor and constraints, and I deliver fresh, matching openings with direct company/ATS links, freshness-checked. On Premium (30 roles), I source up to 15 and you supply links for the rest — mix and match freely.
 
 6. **What format do I receive?**
    Each role: CV + cover letter in DOCX and PDF. Tracker as a Google Sheet link (view/copy) or Excel file — your choice.

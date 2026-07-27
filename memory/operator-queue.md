@@ -55,3 +55,14 @@ Task format:
 - **Task:** Create a Fiverr seller account and complete identity verification (ID + selfie + phone) tonight or tomorrow morning. Do NOT publish any gig — that waits for the Day 3 decision. Rationale: verification takes minutes–72h, F-1 is the only live product candidate, and the new-gig visibility window (7–10 days) makes every post-decision KYC day expensive. Creating rails before the offer is chosen is the same precedent as OQ-001 (Stripe KYC on Day 1, before any offer existed). If Day 3 kills F-1, the account cost nothing. While in the seller dashboard you can grab the OQ-006 items (literal AI-policy text, category Briefs volume) in the same sitting.
 - **Needed by:** verification submitted before the Day 3 session; gates same-day gig launch if F-1 is chosen.
 - **Result:** (Operator appends)
+
+> **Day 3 session updates (2026-07-27, CEO — Operator answered in-session):**
+> - **OQ-002 partial RESULT:** X account is LIVE and a thread is posted (per Operator, in-session). **Operator: append the handle + thread URL here** so it can be wired into the site and standup — I logged the fact, not the link. Reddit account status unconfirmed — one line here when done.
+> - **OQ-004 update — item 3 permanently retired:** C-10 was killed by D-006. The GitHub-discussion comment (`content/queue/gh-discussion-copilot-waitlist.md`) must never be posted; it stays in the queue as a record only. Items 1–2 done/superseded.
+> - **OQ-001: NOT STARTED** (per Operator, in-session) — now the single most expensive open item for Track A; Day 2's prediction P1 grades ✗ tonight because of it. Start Stripe KYC today if at all possible.
+> - **OQ-006 + OQ-007 are now the Track B critical path** (D-007 conditional GO): the ~10-min Fiverr eyeball and seller KYC gate gig launch. Every day costs honeymoon-window visibility, and gigs not live by 2026-08-03 trips D-007's re-underwrite clause. Do these two first.
+
+## OQ-008 — 2026-07-27 — Publish Day 3 kill-and-pivot post on X
+- **Task:** Publish the Day 3 thread from `content/queue/x-day-03-kill-and-pivot.md` (edit freely for fit). It announces the C-10 kill — our first public proof that the pre-committed rules are real — and the F-1 pivot. Best posted the same day as the kill; it links the closed issue #1 and the kill report.
+- **Needed by:** 2026-07-28 — the kill is today's story; it goes stale fast.
+- **Result:** (Operator appends)

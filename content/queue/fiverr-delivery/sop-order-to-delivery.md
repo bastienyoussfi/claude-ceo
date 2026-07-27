@@ -5,19 +5,20 @@
 
 ---
 
-## 0. Tier table (draft prices — confirm against OQ-006 package-table check before publishing)
+## 0. Tier table (aligned to D-007, 2026-07-27 — binding for launch; OQ-006 eyeball may still adjust via escalation, not silently)
 
 | | Basic | Standard | Premium |
 |---|---|---|---|
-| Roles covered | 3 | 10 | 30 |
-| Draft price (Fiverr lists USD) | $15 | $35 | $75 |
-| Net after 20% commission | $12 | $28 | $60 |
+| Roles covered | 5 | 15 | 30 |
+| Price (Fiverr lists USD) | $15 | $35 | $60 |
+| Net after 20% commission | $12 | $28 | $48 |
 | Delivery window (buyer-facing) | 2 days | 3 days | 5 days |
 | Internal delivery target | 24h | 48h | 72h |
 | Revisions included | 1 | 2 | 3 |
 | Role swaps allowed within revisions | 0 | up to 2 roles | up to 5 roles |
-| **Operator (human) time cap per order** | **15 min** | **35 min** | **70 min** |
-| Implied human hourly at cap | ~$48/h | ~$48/h | ~$51/h |
+| Sourced-roles cap (D-007) | 0 (links only) | up to 15 | up to 15 (+15 buyer links) |
+| **Operator (human) time cap per order** | **18 min** | **40 min** | **70 min** |
+| Implied human hourly at cap | ~$40/h | ~$42/h | ~$41/h |
 
 The human time cap is the profitability line, not the AI wall-clock. AI generation time is effectively free; Operator minutes are the scarce resource. If an order is trending past its cap, stop and check §9 (escalation) before spending more.
 
@@ -39,7 +40,7 @@ An order is **complete** when all of the following are true:
 
 - [ ] Master CV file received and it opens (.docx, .pdf, or Google Docs link set to public view)
 - [ ] CV contains: name, contact method, at least one dated work experience entry
-- [ ] Job links: count matches tier (3 / 10 / 30), **or** buyer chose "you find the roles" mode and gave target titles + locations + seniority
+- [ ] Job links: count matches tier (5 / 15 / 30), **or** buyer chose "you find the roles" mode within the tier's sourced-roles cap (§0) and gave target titles + locations + seniority
 - [ ] Every provided link resolves to a live posting (check all of them NOW, not at delivery — dead links found late blow the schedule)
 - [ ] Work-authorization answer present (which countries they can legally work in without sponsorship)
 - [ ] Tone preference and off-limits answers present (blank is acceptable — treat blank as "professional tone, nothing off-limits")
@@ -86,7 +87,7 @@ If the buyer insists login-based application is the only thing they want, offer 
 - No duplicate companies within an order unless buyer asked
 - Record where it was found and the date, in the tracker's Notes column
 
-**Budget warning:** sourcing mode costs 4–8 minutes per role even with AI search assistance (finding, freshness-checking, de-duplicating, constraint-matching). On a Premium order that is 2–4 hours — it is the single most likely step to blow the time budget. Controls: (a) source in one batch, never interleaved with tailoring; (b) at 20 minutes in, if fewer than 25% of needed roles are found, message the buyer to narrow or broaden criteria rather than grinding; (c) sourcing mode on Premium is capped at 15 roles sourced + 15 buyer links in gig copy if this proves unprofitable in the first three orders — flag to CEO via operator-queue if the cap needs activating.
+**Budget warning:** sourcing mode costs 4–8 minutes per role even with AI search assistance (finding, freshness-checking, de-duplicating, constraint-matching). It is the single most likely step to blow the time budget. Controls: (a) **the sourced-roles cap is active per D-007** — max 15 sourced roles per order at any tier (Premium = 15 sourced + 15 buyer links; Basic is links-only), stated in gig copy; (b) source in one batch, never interleaved with tailoring; (c) at 20 minutes in, if fewer than 25% of needed roles are found, message the buyer to narrow or broaden criteria rather than grinding.
 
 ---
 
@@ -152,7 +153,7 @@ Fiverr's AI-content standard requires output customized per order. This checklis
 
 **Tracker & extras:**
 - [ ] One tracker row per role, all pre-fillable columns filled, Status = "Materials ready"
-- [ ] Outreach kit present for every role (Standard/Premium) or the included roles (Basic: all 3)
+- [ ] Outreach kit present for every role (Standard/Premium) or the included roles (Basic: all 5)
 
 Any failed box: fix before delivery. Never deliver with a known defect and a promise to patch it in revision — revisions are for the buyer's preferences, not our misses.
 
@@ -190,7 +191,7 @@ Deliver at the internal target (§0), not at the deadline — early delivery is 
 > I can absolutely restyle it, but a heads-up first: graphic/two-column layouts get scrambled by the applicant tracking systems most companies use to read CVs before a human does. That's why everything I deliver is deliberately plain. If you want a designed version *in addition* for networking/email use, I can add that as an extra — but for the actual application portals, plain wins.
 
 **Out-of-scope volume, exact message:**
-> Happy to help with that! It's beyond what the [Standard] package covers ([10] roles / [2] revisions), so the cleanest way is a gig extra — [e.g. "+5 additional roles for $15"]. Want me to send the offer? Everything already delivered stays yours regardless.
+> Happy to help with that! It's beyond what the [Standard] package covers ([15] roles / [2] revisions), so the cleanest way is a gig extra — [e.g. "+5 additional roles for $15"]. Want me to send the offer? Everything already delivered stays yours regardless.
 
 **If ATS-unsafe change is insisted on after the warning:** do it, note in the delivery message that it was done at buyer's request against our ATS recommendation. Buyer's CV, buyer's call.
 
@@ -200,19 +201,19 @@ Deliver at the internal target (§0), not at the deadline — early delivery is 
 
 Minutes are Operator human time; AI wall-clock runs in parallel and is not the constraint.
 
-| Step | Basic (3) | Standard (10) | Premium (30) |
+| Step | Basic (5) | Standard (15) | Premium (30) |
 |---|---|---|---|
 | First response + intake validation (§1–2) | 4 | 5 | 8 |
 | Link verification (link mode) | 1 | 3 | 6 |
-| Tailoring supervision (AI generates; human skims flags) | 2 | 6 | 12 |
-| QA checklist (§5) — ~1 min per role spot-check pattern: full check on 100% Basic / 50% Standard / 33% Premium + all cross-contamination boxes always | 4 | 10 | 25 |
+| Tailoring supervision (AI generates; human skims flags) | 3 | 8 | 12 |
+| QA checklist (§5) — ~1 min per role spot-check pattern: full check on 100% Basic / 50% Standard / 33% Premium + all cross-contamination boxes always | 5 | 12 | 25 |
 | Package assembly + delivery message | 3 | 5 | 7 |
-| Revision reserve | 1 | 6 | 12 |
-| **Total human minutes (cap from §0)** | **15** | **35** | **70** |
+| Revision reserve | 2 | 7 | 12 |
+| **Total human minutes (cap from §0)** | **18** | **40** | **70** |
 
-**Rules that keep Premium profitable at $75/$60 net:**
+**Rules that keep Premium profitable at $60/$48 net:**
 1. QA sampling, not exhaustive reading: cross-contamination and honesty boxes are checked on *every* file (they're fast, mechanical searches); deep line-reads are sampled per the ratios above. First 5 orders of the account: 100% deep-read regardless of tier (we're buying our quality bar and first reviews).
-2. Sourcing mode consumes the revision reserve first, then triggers §3's controls. A Premium order that is 30 sourced roles at 6 min/role is unprofitable — the gig copy must price sourced-role Premium higher or cap sourced roles (Day 3 pricing decision input).
+2. Sourcing mode consumes the revision reserve first, then triggers §3's controls. The D-007 cap (max 15 sourced roles per order) is the structural fix — a 30-sourced-role order can no longer exist; "we find all 30" becomes a priced add-on later, not launch scope.
 3. Any single order past 1.5× its human-time cap: finish it (never deliver late or thin), then log what blew the budget in the order notes and flag the pattern to CEO if it repeats twice.
 
 ---

@@ -127,12 +127,12 @@ Four ready-to-paste messages per role. All in the candidate's voice, all using o
 
 ## 6. Per-tier package contents
 
-| Item | Basic (3) | Standard (10) | Premium (30) |
+| Item | Basic (5) | Standard (15) | Premium (30) |
 |---|---|---|---|
 | START-HERE.pdf | ✔ | ✔ | ✔ |
 | Tailored CV + cover letter per role | ✔ | ✔ | ✔ |
 | Tracker | ✔ | ✔ | ✔ |
 | Outreach kit per role | ✔ | ✔ | ✔ |
-| Role sourcing ("you find the roles") | — | optional | optional (see SOP §3 budget warning) |
+| Role sourcing ("you find the roles") | — | optional, up to 15 | optional, up to 15 sourced + 15 buyer links (D-007 cap; SOP §3) |
 
 Everything is included at every tier; tiers differ on volume only. Simple to explain, simple to QA, and the $15 Basic is a full-quality sample of the Premium — deliberate: Basic's job is reviews and upgrades, not margin.

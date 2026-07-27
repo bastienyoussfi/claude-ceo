@@ -14,9 +14,9 @@
 
 > Paste your job links — one per line — OR describe what I should find for you.
 >
-> **Option A (recommended, fastest):** paste the links to the postings you want to apply to. Your package covers **3 (Basic) / 10 (Standard) / 30 (Premium)** roles. Links to the company's own careers page work best.
+> **Option A (recommended, fastest):** paste the links to the postings you want to apply to. Your package covers **5 (Basic) / 15 (Standard) / 30 (Premium)** roles. Links to the company's own careers page work best.
 >
-> **Option B:** if you'd rather I find the openings, write "FIND FOR ME" and give me: the job titles you're targeting (1–3), your industry preference if any, and your minimum salary if you have one. I only pick live postings, fresh within 14 days, matched to your location and work-authorization answers below.
+> **Option B (Standard/Premium only, up to 15 roles):** if you'd rather I find the openings, write "FIND FOR ME" and give me: the job titles you're targeting (1–3), your industry preference if any, and your minimum salary if you have one. I only pick live postings, fresh within 14 days, matched to your location and work-authorization answers below. On Premium, I source up to 15 and you supply links for the rest.
 >
 > You can also mix: some links + "find the rest."
 
@@ -76,4 +76,4 @@
 - Map validation to SOP §2: Q1–Q4 answered = minimum viable start; blank Q5 → "Professional and warm"; blank Q6 → "none"; blank Q7 → proceed without.
 - Fiverr's requirement editor may cap question count or text length per question — if it does, fold Q6+Q7 into one free-text question and move their explanatory text into the gig FAQ. Verify during gig creation (OQ-006 item 4).
 - The three fixed-text blocks double as gig-description copy — reuse them there; they are the trust differentiators (no-login, no-fabrication, AI-disclosed).
-- If a buyer answers Q2 with more links than their tier covers, SOP §2a "fewer links" message inverts: offer upgrade extra or ask which N to prioritize. Exact message: *"You sent [14] links but the [Basic] package covers [3] roles. Tell me which [3] to prioritize, or I can send a custom offer to cover all [14] — whichever you prefer."*
+- If a buyer answers Q2 with more links than their tier covers, SOP §2a "fewer links" message inverts: offer upgrade extra or ask which N to prioritize. Exact message: *"You sent [14] links but the [Basic] package covers [5] roles. Tell me which [5] to prioritize, or I can send a custom offer to cover all [14] — whichever you prefer."*
